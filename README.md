@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ✨ I'm a :man_technologist:	computer science bachelor at the Faculty of Computer Science in Macedonia, focusing on Software Engineering.
 
-🔭 Currently working as a full-time Software Engineer at [Inplayer](https://inplayer.com)
+🔭 Currently working as a full-time Software Engineer at [InPlayer](https://inplayer.com)
 
 🌱 In my free time, I love working on open-source projects, experimenting with new tools, and learning stuff by doing it :)
 
