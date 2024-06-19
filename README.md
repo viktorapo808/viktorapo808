@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 🔭 Currently working as a full-time Software Engineer at [Stream](https://getstream.io)
 
-🌱 In my free time, I love working on open-source projects, experimenting with new tools, and learning stuff by doing it :)
-
 📫 Reach me at: apostolskiviktor@gmail.com
